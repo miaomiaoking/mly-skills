@@ -1,0 +1,17 @@
+{
+  "student_id": "1837688880766640130",
+  "student_name": "宋泽辰（Thomas）",
+  "phone": "18612710283",
+  "password": "123456",
+  "login_url": "https://grammar.lehaiya.com/#/login",
+  "home_url": "https://grammar.lehaiya.com/#/grammar",
+  "api_base": "https://grammar.lehaiya.com/api",
+  "data_dir": ".grammar_wrong",
+  "output_dir": ".",
+  "file_prefix": "语法错题整理",
+  "kb": {
+    "id": "ima_kb_sMa16Krk",
+    "folder_id": "folder_7522490259619855",
+    "duplicate_strategy": "DUPLICATE_NAME_STRATEGY_REPLACE"
+  }
+}
